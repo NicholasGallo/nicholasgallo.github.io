@@ -32,9 +32,10 @@
 
 ## Projects
 ### My First Portfolio - Fullstack Web Development Project
-[Github](https://www.mdpi.com/1424-8220/22/8/3048)
 Developed a full-stack portfolio website using Node.js, Express, and MongoDB, with custom front-end components styled using HTML, CSS, and Bootstrap. The site features full CRUD functionality, RESTful routes, and secure user authentication with Passport.js. The project showcases backend logic, user interactivity, and dynamic content, built and deployed independently.
 
+Check the project out on [Github](https://www.mdpi.com/1424-8220/22/8/3048)
+
 ### Viral YouTube Content Analysis
-Led a data-driven project to analyze performance patterns across trending YouTube videos, aiming to improve content strategy and audience engagement. Collected and cleaned a large dataset from multiple creators, focusing on recent uploads to ensure relevance. Performed exploratory data analysis using Python to evaluate trends in view counts, video length, and keyword usage. Applied statistical methods and NLP techniques to identify high-performing topics, outlier content, and engagement patterns. The goal was to determine whether insights from the data could be used to inform future videos and improve overall channel performance.
+Analyzed trending YouTube video data to identify patterns that could improve content performance. Collected and cleaned a dataset of recent uploads across multiple creators, then used Python (Pandas, NumPy, Seaborn) and NLP techniques to explore trends in views, video length, and keyword usage. The goal was to apply these insights to guide future content decisions and increase audience engagement.
 
