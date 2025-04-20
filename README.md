@@ -1,6 +1,6 @@
 # nicholasgallo.github.io
 
-# Data Scientist
+# Software Engineer
 
 #### Technical Skills: Python, SQL, AWS, Javascript, MATLAB, Selenium, 
 
